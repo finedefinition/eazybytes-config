@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Second message reatart webhook : 18:56"
+  message: "Second message restart webhook 19:00"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
